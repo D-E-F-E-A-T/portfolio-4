@@ -1,0 +1,35 @@
+html {
+  position: relative;
+  min-height: 100%;
+
+}
+body {
+  color: white;
+  background-color: #21252B;
+  margin-bottom: 30px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  line-height: 30px;
+}
+
+.container > h3 {
+  padding-top: 15px;
+}
+
+.container.text-center {
+  max-width: 1110px;
+}
+
+
+body > .container {
+  padding: 60px 15px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
